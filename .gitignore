@@ -3,3 +3,6 @@
 *.*~
 *.mo
 _build/
+_site/
+.DS_Store
+serve/
